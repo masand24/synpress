@@ -503,3 +503,4 @@ Above actions will lead to:
 - [How to set up Synpress for Web3 dApp Frontend Test Automation with MetaMask](https://medium.com/andamp/how-to-setup-synpress-for-wen3-dapp-frontend-test-automation-with-metamask-73396896684a)
 - [Extending Synpress with additional MetaMask commands](https://medium.com/andamp/extending-synpress-with-additional-metamask-commands-fdc6b35a2ffc)
 - [Test e2e login to dApp with Metamask with Synpress](https://medium.com/coinmonks/test-e2e-login-to-dapp-with-metamask-with-synpress-5248dd1f17c1)
+--commint--
